@@ -1,6 +1,6 @@
 # Colors
 
-Just for how colors look in the terminal. BECAUSE I CAN NEVER REMEMBER!
+Just for checking how colors look in the terminal. BECAUSE I CAN NEVER REMEMBER!
 
 ![screenshot](screenshot.png)
 
