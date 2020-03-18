@@ -6,5 +6,5 @@ Feature: Show colors
     When I run `wp colors`
     Then STDOUT should contain:
       """
-      %y : ['color' => 'yellow'] : Lorem ipsum
+      %y [ yellow ] The quick brown fox jumps over the lazy dog
       """
